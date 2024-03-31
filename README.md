@@ -1,2 +1,2 @@
 # myCalculator
-软件工程项目之四则运算个人版
+Four Operations, Introduction to Software Engineering course, 2019 Spring, NENU
